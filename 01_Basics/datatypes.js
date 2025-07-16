@@ -12,3 +12,4 @@ console.log(typeof isLoggedIn)
 console.log(typeof state)
 console.log(typeof bigIntValue)
 console.log(typeof symbolValue)
+
