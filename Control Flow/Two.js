@@ -61,6 +61,3 @@
    default:
      console.log("Not a recognized month");
  }
-
- 
- 
